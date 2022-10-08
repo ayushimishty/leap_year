@@ -1,0 +1,18 @@
+body{
+    margin:5%;
+    padding: 5%;
+    border-radius: 20%;
+    border: dotted;
+    background-color: aquamarine;
+    color: blue;
+}
+#leap{
+     border-radius: 10%;
+    border:double ;
+    margin:5%;
+    padding: 5%;
+}
+#button{
+    color: chartreuse;
+    background-color: brown;
+}
